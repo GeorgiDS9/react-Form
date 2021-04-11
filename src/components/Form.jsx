@@ -1,6 +1,6 @@
 import React from "react";
 
-function Form() {
+function Form(props) {
   return (
     <form className="form">
       <input type="text" placeholder="Username" />
